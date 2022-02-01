@@ -6,7 +6,7 @@ A todo web application with various functionalitis.
 
 Developed by [Shahriar Hussain](https://www.linkedin.com/in/web-developer-shahriar-hussain/)
 
-**live demo: [https://wc-react-todo-app.netlify.app/](https://unruffled-beaver-18b3ea.netlify.app/)**
+**live demo: [https://unruffled-beaver-18b3ea.netlify.app/](https://unruffled-beaver-18b3ea.netlify.app/)**
 
 ---
 
