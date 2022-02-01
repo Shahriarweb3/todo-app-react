@@ -18,11 +18,15 @@ function AppHeader() {
 
   return (
     <div className={styles.appHeader}>
-      <Button variant="warning" style={{marginRight: '10px'}} onClick={() => setModalOpen(true)}>
+      <Button
+        variant="warning"
+        style={{ marginRight: '10px' }}
+        onClick={() => setModalOpen(true)}
+      >
         Add Todo
       </Button>
       <SelectButton
-      style={{marginLeft: '10px'}}
+        style={{ marginLeft: '10px' }}
         id="status"
         onChange={(e) => updateFilter(e)}
         value={filterStatus}

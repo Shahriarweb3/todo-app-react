@@ -9,7 +9,9 @@ function App() {
   return (
     <>
       <div className="container">
-        <PageTitle><span style={{color: 'purple'}}>MY</span> TODO LIST</PageTitle>
+        <PageTitle>
+          <span style={{ color: 'purple' }}>MY</span> TODO LIST
+        </PageTitle>
         <div className={styles.app__wrapper}>
           <AppHeader />
           <AppContent />

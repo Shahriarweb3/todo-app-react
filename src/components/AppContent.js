@@ -39,7 +39,7 @@ function AppContent() {
   return (
     <motion.div
       className={styles.content__wrapper}
-      style={{marginTop: '20px'}}
+      style={{ marginTop: '20px' }}
       variants={container}
       initial="hidden"
       animate="visible"
