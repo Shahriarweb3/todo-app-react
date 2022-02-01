@@ -1,4 +1,4 @@
-![React Todo App](./banner.png)
+![React Todo App](./banner.PNG)
 
 # Todo App with React.
 
